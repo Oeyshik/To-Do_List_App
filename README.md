@@ -14,17 +14,17 @@
 ## Features
 
 - **Categories Management:**
-- `Category Display:` Renders different categories like Personal, Work, Shopping, etc., each with its own set of tasks.
-- `Category Selection:` Allows users to select a category to view and manage tasks within that category.
+  `Category Display:` Renders different categories like Personal, Work, Shopping, etc., each with its own set of tasks.
+  `Category Selection:` Allows users to select a category to view and manage tasks within that category.
 
 - **Tasks Management:**
-- `Task Display:` Shows tasks within the selected category, displaying task names and checkboxes to mark tasks as completed.
-- `Task Addition:` Offers an "Add Task" functionality where users can input new tasks along with their respective categories.
-- `Task Deletion:` Provides the ability to delete tasks individually.
+  `Task Display:` Shows tasks within the selected category, displaying task names and checkboxes to mark tasks as completed.
+  `Task Addition:` Offers an "Add Task" functionality where users can input new tasks along with their respective categories.
+  `Task Deletion:` Provides the ability to delete tasks individually.
 
 - **User Intearction:**
-- `User-Friendly Interface:` Incorporates a clean and intuitive interface for smooth user interaction.
-- `Toggle Screen:` Enables switching between the home screen and category screens seamlessly.
+  `User-Friendly Interface:` Incorporates a clean and intuitive interface for smooth user interaction.
+  `Toggle Screen:` Enables switching between the home screen and category screens seamlessly.
 
 ## Tech Stack
 
@@ -32,7 +32,7 @@
 - CSS: Responsible for styling and designing the visual elements and layout of the app.
 - JavaScript: Implemented for dynamic functionality, task management, and interaction with user actions.
 - Data Handling
-- `Local Storage`: Utilizes the browser's local storage to persist tasks, ensuring that added tasks are retained even after refreshing the page.
+  `Local Storage`: Utilizes the browser's local storage to persist tasks, ensuring that added tasks are retained even after refreshing the page.
 
 ## Project Structure
 
